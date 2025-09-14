@@ -23,6 +23,7 @@ Detects anomalies (non-8-byte payloads)
 
 Generates visualizations:
 can_id_frequency.png → Bar graph of top CAN IDs
+
 traffic_rate.png → Line graph of messages per interval
 
 Detecting Anomalies
